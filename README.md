@@ -1,3 +1,5 @@
+Read and run the notebook at https://github.com/hultml/simple-pytorch first!
+
 1. Download the zip
 2. open a terminal
 3. cd ~/Downloads/mlp-pytorch-hw-main (or similar as expanded by you in Downloads)
